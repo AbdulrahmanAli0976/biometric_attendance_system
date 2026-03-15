@@ -1,0 +1,25 @@
+﻿# Local config overrides
+config/.env
+config/local.php
+
+# Runtime data
+logs/
+cache/
+tmp/
+uploads/
+storage/
+sessions/
+
+# Data exports
+*.log
+*.csv
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Optional dependency dirs
+node_modules/
+vendor/
