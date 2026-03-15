@@ -1,0 +1,17 @@
+﻿name: "Bug report"
+description: Report a reproducible bug
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Describe the bug and steps to reproduce.
+      placeholder: Steps, expected vs actual behavior.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Logs or screenshots
+      description: Paste any relevant logs or screenshots.
+    validations:
+      required: false

@@ -37,3 +37,6 @@ Remaining Tasks:
 ## Releases
 - v1.0.0 tag pushed to GitHub (release page pending; GitHub CLI not installed)
 - v1.0.0 release published (GitHub Releases)
+
+## Repo Metadata
+- Added CHANGELOG, CONTRIBUTING, CODE_OF_CONDUCT, LICENSE, .editorconfig, .gitattributes, and GitHub templates
