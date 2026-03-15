@@ -125,3 +125,12 @@ Implementation Summary: Added README setup guide; created annotated tag v1.0.0 a
 Errors Found: GitHub release creation pending (GitHub CLI not installed).
 Fix Applied: N/A
 System Status: Tag v1.0.0 pushed; release page pending manual creation
+
+## 2026-03-15 14:45 Africa/Lagos
+Task: GitHub release creation (CLI)
+Files Modified: DEV_LOG.md, PROJECT_MEMORY.md
+Reason for Change: Publish v1.0.0 release on GitHub.
+Implementation Summary: Created GitHub release v1.0.0 via GitHub CLI.
+Errors Found: None
+Fix Applied: N/A
+System Status: Release published
