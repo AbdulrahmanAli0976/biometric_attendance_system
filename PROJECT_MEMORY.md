@@ -33,3 +33,6 @@ Remaining Tasks:
 
 ## Next Priorities
 - Stabilization, QA, and deployment hardening as needed
+
+## Releases
+- v1.0.0 tag pushed to GitHub (release page pending; GitHub CLI not installed)

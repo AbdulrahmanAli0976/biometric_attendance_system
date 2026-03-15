@@ -116,3 +116,12 @@ Implementation Summary: Added shared design system CSS, refactored admin/staff/a
 Errors Found: None
 Fix Applied: N/A
 System Status: UI/UX applied across the application
+
+## 2026-03-15 14:10 Africa/Lagos
+Task: Repository docs and release tagging
+Files Modified: README.md, DEV_LOG.md, PROJECT_MEMORY.md
+Reason for Change: Add setup documentation and tag v1.0.0 for release.
+Implementation Summary: Added README setup guide; created annotated tag v1.0.0 and pushed to GitHub.
+Errors Found: GitHub release creation pending (GitHub CLI not installed).
+Fix Applied: N/A
+System Status: Tag v1.0.0 pushed; release page pending manual creation
