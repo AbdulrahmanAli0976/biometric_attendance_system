@@ -40,3 +40,6 @@ Remaining Tasks:
 
 ## Repo Metadata
 - Added CHANGELOG, CONTRIBUTING, CODE_OF_CONDUCT, LICENSE, .editorconfig, .gitattributes, and GitHub templates
+
+## Release Automation
+- Added GitHub Actions `release-please` workflow to generate release PRs, update CHANGELOG, and publish release notes
